@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
 module.exports = appCore;
 
 function appCore() {
-    // TODO
+  console.log("I am core");
 }

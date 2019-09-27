@@ -1,5 +1,8 @@
 "use strict";
 
+const appCore = require("@alincode/app-core");
+appCore();
+
 function appApiServer() {
   const Koa = require("koa");
   const app = new Koa();
