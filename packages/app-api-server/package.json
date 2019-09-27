@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/alincode/lerna-sandbox-2019/issues"
   },
-  "homepage": "https://github.com/alincode/lerna-sandbox-2019#readme"
+  "homepage": "https://github.com/alincode/lerna-sandbox-2019#readme",
+  "dependencies": {
+    "koa": "^2.8.1"
+  }
 }
